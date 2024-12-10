@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge.Tests", "CodingChallenge.Tests\CodingChallenge.Tests.csproj", "{AC3B4EA3-F887-48E0-A51A-9B6B42A4F5D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge", "CodingChallenge\CodingChallenge.csproj", "{72A2063C-A157-4080-B048-D55726484205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3B4EA3-F887-48E0-A51A-9B6B42A4F5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3B4EA3-F887-48E0-A51A-9B6B42A4F5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3B4EA3-F887-48E0-A51A-9B6B42A4F5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3B4EA3-F887-48E0-A51A-9B6B42A4F5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A2063C-A157-4080-B048-D55726484205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A2063C-A157-4080-B048-D55726484205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A2063C-A157-4080-B048-D55726484205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A2063C-A157-4080-B048-D55726484205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
